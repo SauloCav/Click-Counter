@@ -27,13 +27,7 @@ Before getting started, you should have the React Native development environment
    git clone https://github.com/SauloCav/Click-Counter-React-Native
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd react-native-click-counter
-   ```
-
-3. Install the dependencies using npm or yarn:
+2. Install the dependencies using npm or yarn:
 
    Using npm:
 
