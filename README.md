@@ -57,10 +57,6 @@ npx react-native run-ios # For iOS (macOS only)
 
 This will launch the application on your emulator or device. You will see a click counter on the screen and a button that you can click to increment the counter.
 
-## Customization
-
-You can customize the application to your preferences by modifying the styles, colors, texts, and more in the application's source code. Styles are defined in the `App.js` file, where you can make the necessary changes.
-
 ## Contribution
 
 If you'd like to contribute to this project, feel free to create a pull request. I'll be happy to review and incorporate improvements.
@@ -68,8 +64,3 @@ If you'd like to contribute to this project, feel free to create a pull request.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Author
-
-- Saulo Cav
-- Contact: saulocavalcante25@hotmail.com
