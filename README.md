@@ -9,7 +9,11 @@ This is a simple React Native application that tracks how many times a button is
 - The counter is automatically updated on the screen after each button click.
 
 ## Prints
-
+<p align="center">
+  <img src="img/01.jpg" width="240" />
+  <img src="img/02.jpg" width="240" /> 
+  <img src="img/03.jpg" width="240" />
+</p>
 
 ## Prerequisites
 
