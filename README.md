@@ -24,7 +24,7 @@ Before getting started, you should have the React Native development environment
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/react-native-click-counter.git
+   git clone https://github.com/SauloCav/Click-Counter-React-Native
    ```
 
 2. Navigate to the project directory:
